@@ -1,0 +1,7 @@
+{
+  "name": "Tapas y Bocatas Manager",
+  "description": "Comprehensive management system for a Tapas Bar including POS, Stock Control, Recipe Costing (Escandallos), and AI-powered Invoice processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
